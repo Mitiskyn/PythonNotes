@@ -1,3 +1,5 @@
-import View
+import work
 
-View.start()
+
+if __name__ == '__main__':
+    work.run()
